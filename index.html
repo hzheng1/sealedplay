@@ -48,7 +48,7 @@ fetch('boosterdata.json').then(r => r.json()).then(
 					return selectedBooster[elem];
 				});
 				newCards.forEach((elem) => {
-					const newCard = createElement(`<img class="card-thumbnail ${elem.isExtra ? 'extra' : ''}" src="${revealed ? elem.art : CARD_BACK}"></img>`);
+					const newCard = createElement(`<img class="card-thumbnail ${elem.isExtra ? 'extra' : ''}" data-id="${elem.passcode}" src="${revealed ? elem.art : CARD_BACK}"></img>`);
 					newCard.addEventListener('mouseover', () => {
 						document.querySelector('#preview').src = newCard.src;
 					});
@@ -123,10 +123,31 @@ fetch('boosterdata.json').then(r => r.json()).then(
 		});
 
 		document.querySelector('#export').addEventListener('click', () => {
-			console.log('!');
+			deck = '#main\n';
+			document.querySelectorAll('.selected:not(.extra)').forEach((elem) => {
+				deck += elem.getAttribute('data-id') + '\n';
+			});
+			deck += '#extra\n';
+			document.querySelectorAll('.selected.extra').forEach((elem) => {
+				deck += elem.getAttribute('data-id') + '\n';
+			});
+			download('sealedplay.ydk', deck);
 		});
 	}
 );
+
+function download(filename, text) {
+  var element = document.createElement('a');
+  element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
+  element.setAttribute('download', filename);
+
+  element.style.display = 'none';
+  document.body.appendChild(element);
+
+  element.click();
+
+  document.body.removeChild(element);
+}
 		</script>
 		<style type="text/css">
 			.column {
