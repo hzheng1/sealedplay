@@ -1,0 +1,199 @@
+<html>
+	<head>
+		<script>
+
+const OVERRIDE_BOOSTER_SELECTORS = {
+	'/wiki/Battle_Pack:_Epic_Dawn': () => {
+		return [
+			Math.floor(Math.random() * 55),
+			Math.floor(Math.random() * 55) + 55,
+			Math.floor(Math.random() * 60) + 110,
+			Math.floor(Math.random() * 50) + 170,
+			Math.floor(Math.random() * 220)
+		];
+	}
+};
+
+const CARD_BACK = 'https://vignette.wikia.nocookie.net/yugioh/images/e/e5/Back-EN.png/revision/latest?cb=20100726082133';
+
+fetch('boosterdata.json').then(r => r.json()).then(
+	(data) => {
+		let selectElem = document.querySelector('#booster');
+		var selectedBooster = null;
+		var selector = null;
+		for (pack in data) {
+			selectElem.innerHTML += `<option value="${pack}">${pack}</option>`;
+		}
+		let selectElemChange = () => {
+			selectedBooster = data[selectElem.value];
+			if (OVERRIDE_BOOSTER_SELECTORS[selectElem.value]) {
+				selector = OVERRIDE_BOOSTER_SELECTORS[selectElem.value];
+			}
+		};
+		selectElem.addEventListener('change', selectElemChange);
+		selectElemChange();
+
+		const createElement = (html) => {
+			const div = document.createElement('div');
+			div.innerHTML = html.trim();
+			return div.firstChild; 
+		};
+
+		const addCards = (revealed) => {
+			if (!selectedBooster) {
+				return;
+			}
+			if (selector) {
+				let newCards = selector().map((elem) => {
+					return selectedBooster[elem];
+				});
+				newCards.forEach((elem) => {
+					const newCard = createElement(`<img class="card-thumbnail ${elem.isExtra ? 'extra' : ''}" src="${revealed ? elem.art : CARD_BACK}"></img>`);
+					newCard.addEventListener('mouseover', () => {
+						document.querySelector('#preview').src = newCard.src;
+					});
+					var cardRevealed = revealed;
+					newCard.addEventListener('click', () => {
+						if (!cardRevealed) {
+							newCard.classList.add('flip1');
+							animateEnd = () => {
+								if (newCard.classList.contains('flip1')) {
+									newCard.classList.remove('flip1');
+									newCard.classList.add('flip2');
+									newCard.src = elem.art;
+									cardRevealed = true;
+								} else if (newCard.classList.contains('flip2')) {
+									newCard.classList.remove('flip2');
+									newCard.removeEventListener('transitionend', animateEnd);
+								}
+							};
+							newCard.addEventListener('transitionend', animateEnd);
+						} else {
+							if (newCard.classList.contains('selected')) {
+								newCard.classList.remove('selected');
+							} else {
+								const isExtra = newCard.classList.contains('extra');
+								const totalSelected = document.querySelectorAll(`.selected${isExtra ? '.extra' : ''}`).length;
+								if (!isExtra && totalSelected < 60 || 
+										isExtra && totalSelected < 15) {
+									newCard.classList.add('selected');
+								}
+							}
+						}
+					});
+					const main = document.querySelector('#main');
+					main.appendChild(newCard);
+					main.scrollTo(0, main.scrollHeight);
+				});
+			}
+		};
+
+		document.querySelector('#add').addEventListener('click', () => {
+			addCards(false);
+		});
+
+		document.querySelector('#add-shown').addEventListener('click', () => {
+			addCards(true);
+		});
+
+		document.querySelector('#sort').addEventListener('click', () => {
+			const main = document.querySelector('#main');
+			const items = main.childNodes;
+			let itemsArr = [];
+			for (var i in items) {
+				if (items[i].nodeType == 1) { // get rid of the whitespace text nodes
+					itemsArr.push(items[i]);
+				}
+			}
+
+			itemsArr.sort(function(a, b) {
+				const cardBackCompare = (a.src == CARD_BACK ? 1 : 0) - (b.src == CARD_BACK ? 1 : 0);
+				let selectedCompare = (a.classList.contains('selected') ? -1 : 0) - 
+						(b.classList.contains('selected')? -1 : 0);
+				if (selectedCompare == 0) {
+					selectedCompare = (a.classList.contains('extra') ? 1 : 0) - 
+							(b.classList.contains('extra') ? 1 : 0);
+				}
+				return  selectedCompare * 100 + cardBackCompare * 10 + (a.src == b.src ? 0 : (a.src > b.src ? 1 : -1));
+			});
+
+			for (i = 0; i < itemsArr.length; ++i) {
+				main.appendChild(itemsArr[i]);
+			}
+		});
+
+		document.querySelector('#export').addEventListener('click', () => {
+			console.log('!');
+		});
+	}
+);
+		</script>
+		<style type="text/css">
+			.column {
+			  float: left;
+			}
+
+			.left {
+			  width: 75%;
+			}
+
+			#main {
+				overflow-y: scroll;
+			  height: 95%;
+			}
+
+			.right {
+			  width: 25%;
+			}
+
+			.card-thumbnail {
+				width: 144px;
+				margin: 8px;
+			}
+
+			.card-thumbnail.flip1 {
+				transition: .5s ease-in-out;
+				transform: scale(0, 1);
+			}
+
+			.card-thumbnail.flip2 {
+				transition: .5s ease-in-out;
+				transform: scale(1, 1);
+			}
+
+			.selected.extra {
+				outline: 4px solid blue;
+			}
+
+			.selected {
+				outline: 4px solid red;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="row">
+			<div class="column left" >
+				<select id="booster">
+				</select>
+				<button id="add">
+					Open Booster
+				</button>
+				<button id="add-shown">
+					Open Revealed Booster
+				</button>
+				<button id="sort">
+					Sort
+				</button>
+				<button id="export">
+					Export
+				</button>
+				<br />
+				<div id="main">
+				</div>
+			</div>
+			<div class="column right">
+				<img id="preview" width="100%"></img>
+			</div>
+		</div>
+	</body>
+</html>
