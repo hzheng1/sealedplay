@@ -128,12 +128,10 @@ fetch('boosterdata.json').then(r => r.json()).then(
 				deck += elem.getAttribute('data-id') + '\n';
 			});
 			deck += '!side\n'
-			if (document.querySelectorAll('.selected.extra').length > 0) {
-				deck += '#extra\n';
-				document.querySelectorAll('.selected.extra').forEach((elem) => {
-					deck += elem.getAttribute('data-id') + '\n';
-				});
-			}
+			deck += '#extra\n';
+			document.querySelectorAll('.selected.extra').forEach((elem) => {
+				deck += elem.getAttribute('data-id') + '\n';
+			});
 			download('sealedplay.ydk', deck);
 		});
 	}
