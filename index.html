@@ -134,6 +134,12 @@ fetch('boosterdata.json').then(r => r.json()).then(
 			});
 			download('sealedplay.ydk', deck);
 		});
+
+		document.querySelector('#select-all').addEventListener('click', () => {
+			document.querySelectorAll('.card-thumbnail:not(.selected)').forEach((elem) => {
+				elem.click();
+			});
+		});
 	}
 );
 
@@ -208,6 +214,9 @@ function download(filename, text) {
 				</button>
 				<button id="export">
 					Export
+				</button>
+				<button id="select-all">
+					Click All
 				</button>
 				<br />
 				<div id="main">
