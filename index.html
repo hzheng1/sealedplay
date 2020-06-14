@@ -13,11 +13,20 @@ const OVERRIDE_BOOSTER_SELECTORS = {
 		];
 	}, 
 	'/wiki/Battle_Pack_2:_War_of_the_Giants': () => { // TODO: fix the rarity here
+		let RARES = [95,84,83,89,90,65,64,60,61,55,54,59,73,70,68,80,26,23,21,16,18,5,3,9,7,35,28,27,46,45,47,160,150,135,137,117,115,109,112,121,122,129,128,175,166,165,171,208,212,214].map((i) => { return i - 1 });
+		let RARES_SET = new Set(RARES);
+		let COMMONS = [];
+		for (let i = 0; i < 215; i++) {
+			if (!RARES_SET.has(i)) {
+				COMMONS.pushBack(i);
+			}
+		}
+
 		return [
-			Math.floor(Math.random() * 215),
-			Math.floor(Math.random() * 215),
-			Math.floor(Math.random() * 215),
-			Math.floor(Math.random() * 215),
+			RARES[Math.floor(Math.random() * RARES.length)],
+			COMMONS[Math.floor(Math.random() * COMMONS.length)],
+			COMMONS[Math.floor(Math.random() * COMMONS.length)],
+			COMMONS[Math.floor(Math.random() * COMMONS.length)],
 			Math.floor(Math.random() * 215)
 		];
 	}
