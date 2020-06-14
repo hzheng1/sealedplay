@@ -1,5 +1,5 @@
 {
-  "/wiki/Battle_Pack:_Epic_Dawn": [
+  " wiki/Battle_Pack:_Epic_Dawn": [
     {
       "passcode": "78010363",
       "art": "https://vignette.wikia.nocookie.net/yugioh/images/7/7c/WitchoftheBlackForest-BLLR-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20170707110659",
@@ -1317,6 +1317,1298 @@
     {
       "passcode": "29417188",
       "art": "https://vignette.wikia.nocookie.net/yugioh/images/7/72/PsiBlocker-BP01-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20120612112203",
+      "rarity": "Common",
+      "isExtra": false
+    }
+  ],
+  "wiki/Battle_Pack_2:_War_of_the_Giants": [
+    {
+      "passcode": "11091375",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/3/3a/LusterDragon-SDKS-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20161021201147",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "69247929",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/8/8d/GeneWarpedWarwolf-YS16-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20160526085605",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "06631034",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/c/c1/Frostosaurus-BP02-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20130712024307",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "43096270",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/a/a7/AlexandriteDragon-LDK2-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20161007084732",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "31560081",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/MagicianofFaith-SDCL-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20171107114430",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "93013676",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/6/6c/MahaVailo-YS15-EU-C-1E.png/revision/latest/scale-to-width-down/300?cb=20150530115818",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "34124316",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/4/42/CyberJar-BP02-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20130703133627",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "78658564",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/1/14/GoblinAttackForce-LDK2-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20161007083459",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "66362965",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/f/f1/TheFiendMegacyber-LCJW-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20131012083117",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "31709826",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/b/b8/RevivalJam-LCJW-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20131013180658",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "88240808",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/0/06/KycootheGhostDestroyer-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130712031237",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "40133511",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/6/6b/BazootheSoulEater-BP03-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140801081819",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "45894482",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/3/37/Gilasaurus-SR04-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20170411221534",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "88472456",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/8/82/ZombyratheDark-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130712031440",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "08131171",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/5/5b/SinisterSerpent-PGL2-EN-GUR-1E.png/revision/latest/scale-to-width-down/300?cb=20150320151427",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "18036057",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/f/ff/AirknightParshath-SR05-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20180120011826",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "43586926",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/d/d8/TwinHeadedBehemoth-SS02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20190129195054",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "79575620",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/0/09/InjectionFairyLily-YS14-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140711044615",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "47025270",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/2/2b/HelpingRoboforCombat-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130712031724",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "90790253",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/e/e0/LittleWinguard-SS02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20190129174338",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "07572887",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/0/0f/DDWarriorLady-DUSA-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20170330171905",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "16268841",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/4/4e/Zolga-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130712034313",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "40737112",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/1/17/DarkMagicianofChaos-SR08-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20190502213137",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "02671330",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/4/43/HyperHammerhead-BP03-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140801141141",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "22609617",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/6/60/MatazatheZapper-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130712034415",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "68007326",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/f/f8/GuardianAngelJoan-BP02-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20130712034446",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "78636495",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/6/65/SlateWarrior-BP03-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20140803170513",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "70074904",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/1/15/DDAssailant-BP02-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20130703133702",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "04041838",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/a/a8/NinjaGrandmasterSasuke-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130712034551",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "88975532",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/d/d1/PitchBlackWarwolf-YS16-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20160526085710",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "15960641",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/4/4b/MirageDragon-YS15-EU-C-1E.png/revision/latest/scale-to-width-down/300?cb=20150530115749",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "65240384",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/0/0e/BigShieldGardna-LEDD-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20171005213401",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "42386471",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/f/f9/ToonGeminiElf-DPBC-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20150617210619",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "16956455",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/5/53/ChirontheMage-BP03-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20140801140456",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "83104731",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/d/d3/AncientGearGolem-LED2-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20180225021430",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "18325492",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/6/6f/Gyroid-DEM2-EN-C-UE.png/revision/latest/scale-to-width-down/300?cb=20170221064243",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "44729197",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/e/ef/Steamroid-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130712123019",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "71218746",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/b/ba/Drillroid-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130712123045",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "70095154",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/5/51/CyberDragon-YS18-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20180712163656",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "85306040",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/1/11/GoblinEliteAttackForce-YS15-EU-C-1E.png/revision/latest/scale-to-width-down/300?cb=20150530123106",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "63749102",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/3/36/ExarionUniverse-YS18-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20180712164044",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "55424270",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/d/d4/MythicalBeastCerberus-BP03-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140803171530",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "12538374",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/9/91/TreebornFrog-DUSA-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20170330171732",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "99861526",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/9/99/Submarineroid-BP03-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140803171859",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "15894048",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/0/03/UltimateTyranno-SR04-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20170411221407",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "85520851",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/3/34/SuperConductorTyranno-SR04-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20170411221400",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "81919143",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/e/e8/BrainCrusher-BP02-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20130703133749",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "85087012",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/f/f5/CardTrooper-BLRR-EN-ScR-1E.png/revision/latest/scale-to-width-down/300?cb=20180628234310",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "48115277",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/b/b7/Blockman-LDK2-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20161007082308",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "93187568",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/5/56/SpellStriker-SR03-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20170411220540",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "18430390",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/9/9f/WingedRhynos-BP03-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20140803172023",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "04906301",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/4/44/NecroGardna-THSF-EN-SR-1E.png/revision/latest/scale-to-width-down/300?cb=20150214094447",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "66337215",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/2/21/HeraldofCreation-SR02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20160706182412",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "58554959",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/b/b9/EvilHEROMaliciousEdge-BP02-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20130802200608",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "61538782",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/8/8d/Truckroid-BP02-EN-R-UE.png/revision/latest/scale-to-width-down/300?cb=20150209155214",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "39303359",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/2/29/AncientGearKnight-SR03-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20170411220339",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "64262809",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/1/19/DragonIce-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713020346",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "26376390",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/2/26/Copycat-SS02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20190128200200",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "03657444",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/1/16/CyberValley-LEDD-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20171005215105",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "40921744",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/DarklordZerato-DESO-EN-SR-1E.png/revision/latest/scale-to-width-down/300?cb=20161117191351",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "33655493",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/d/da/BelialMarquisofDarkness-BP02-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20130713021043",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "78700060",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/1/10/DoomcaliberKnight-DUSA-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20170330171803",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "13893596",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/d/dd/ExodiustheUltimateForbiddenLord-MIL1-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20200414202505",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "83269557",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/1/1b/DarkValkyria-LDK2-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20161007083644",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "49879995",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/2/2c/PhantomDragon-BP02-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20130713021147",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "95360850",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/6/6f/ShieldWarrior-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713021210",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "97021916",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/2/20/DarkResonator-DPDG-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20170525213621",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "59575539",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/7/71/Krebons-HSRD-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20151001204652",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "14778250",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/f/f6/TheTricky-LDK2-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20161007082208",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "05645210",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/d/d3/SplendidVenus-SR05-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20180120012718",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "33420078",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/b/b0/PlaguespreaderZombie-DASA-EN-SR-1E.png/revision/latest/scale-to-width-down/300?cb=20180525181951",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "96938777",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/2/2c/MachineLord%C3%9Cr-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130705150658",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "08483333",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/3/32/MosaicManticore-BP02-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20130713023259",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "20546916",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/4/4e/BotanicalLion-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130705150716",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "61802346",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/1/19/BlizzardDragon-SDKS-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20161021201130",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "33695750",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/3/3d/DesMosquito-YSKR-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20170830161749",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "15341821",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/a/ad/Dandylion-DUSA-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20170330171724",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "66288028",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/2/2c/FortressWarrior-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713023419",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "40225398",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/1/18/TwinSwordMarauder-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713023446",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "78651105",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/a/a2/BeastKingBarbaros-YS18-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20180712163332",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "59042331",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/e/e8/HedgeGuard-LC5D-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20141027133817",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "04694209",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/5/5e/CardGuard-BP03-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20140801140348",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "79473793",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/2/2f/WhiteNightDragon-SR02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20160706182540",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "19028307",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/1/16/BeastMachineKingBarbaros%C3%9Cr-BP02-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20130703150910",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "96872283",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/0/0d/EvocatorChevalier-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713034358",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "19665973",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/4/46/BattleFader-YS18-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20180712163256",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "42280216",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/f/fb/OracleoftheSun-LC5D-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20141028214528",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "64926005",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/2/25/SamuraioftheIceBarrier-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713034502",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "85028288",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/8/88/JurracTitano-BP02-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20130703150924",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "55690251",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/0/0e/DarklordDesire-BP02-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20130703150936",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "07025445",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/b/ba/PowerGiant-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713035235",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "58324930",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/c/c3/AnarchistMonkRanshin-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713035258",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "41098335",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/ApeFighter-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130705173424",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "15394083",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/f/fd/TanngrisniroftheNordicBeasts-LEHD-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20181012183209",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "97940434",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/b/bc/ChaosHunter-SDMP-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20151202231719",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "84914462",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/3/3b/AxeDragonute-YS15-EU-C-1E.png/revision/latest/scale-to-width-down/300?cb=20150530123133",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "40619741",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/d/d5/VylonSoldier-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713035506",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "14785765",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/e/e3/BlackwingZephyrostheElite-DUOV-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20200321160309",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "97896503",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/e/e4/ZubabaKnight-NUMH-EN-SR-1E.png/revision/latest?cb=20130711171445",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "74530899",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/0/01/MetaiontheTimelord-BLRR-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20180628231949",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "56223084",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/0/05/NeedleSunfish-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713040325",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "02584136",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/1/14/Shocktopus-BP03-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140804152035",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "65367484",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/f/f3/PhotonThrasher-LED3-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20180928171131",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "25206027",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/4/4f/InterplanetarypurplythornyDragon-SDKS-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20161021201110",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "52823314",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/c/cf/TourBusFromtheUnderworld-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713040416",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "01281505",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/0/01/VylonTetra-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713040442",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "38679204",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/b/b6/VylonStella-BP02-EN-C-UE.png/revision/latest/scale-to-width-down/300?cb=20150201161709",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "74064212",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/5/54/VylonPrism-SDLI-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140626070621",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "55758589",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/3/39/PhotonWyvern-BP02-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20130713040533",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "86039057",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/1/10/TasukeKnight-SP14-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140224113852",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "12423762",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/6/6e/GagagaGardna-SP14-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140224113928",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "45812361",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/9/9f/CardcarD-YS17-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20170718195120",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "66499018",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/b/b9/FlameTiger-BP03-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20140804152235",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "64892035",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/7/73/TardyOrc-BP03-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20140804152314",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "36088082",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/5/58/BullBlader-BP02-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20130713042323",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "33911264",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/7/71/SolarWindJammer-SDCR-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140208121951",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "21954587",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/c/cf/MermailAbyssmegalo-SHVA-EN-SR-1E.png/revision/latest/scale-to-width-down/300?cb=20180817182706",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "19700943",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/6/67/DododoBot-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713042511",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "82593786",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/3/39/BaconSaver-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713042531",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "18988391",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/a/a5/Amarylease-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713042614",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "10532969",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/3/35/HyperAncientSharkMegalodon-BP02-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20130713042648",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "61231400",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/c/c8/PyrotechMechShiryu-BP02-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20130713042711",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "42969214",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/6/6f/AyeIron-BP03-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20140804121401",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "66200210",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/MechaPhantomBeastHamstrat-MP14-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20140904211738",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "10000001",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/0/01/ObelisktheTormentor-TN19-EN-PScR-LE.png/revision/latest/scale-to-width-down/300?cb=20191022015638",
+      "rarity": "Mosaic Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "10000002",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/a/a4/TheWingedDragonofRa-TN19-EN-PScR-LE.png/revision/latest/scale-to-width-down/300?cb=20191022021002",
+      "rarity": "Mosaic Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "10000003",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/f/f8/SlifertheSkyDragon-TN19-EN-PScR-LE.png/revision/latest/scale-to-width-down/300?cb=20191022020938",
+      "rarity": "Mosaic Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "83764718",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/8/8c/MonsterReborn-TN19-EN-PScR-LE.png/revision/latest/scale-to-width-down/300?cb=20191022021102",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "55144522",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/f/f2/PotofGreed-YGLD-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20170814021753",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "52097679",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/f/fa/ShieldSword-SBLS-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20190509215732",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "40619825",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/8/8a/AxeofDespair-YS15-EU-C-1E.png/revision/latest/scale-to-width-down/300?cb=20150530123554",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "99597615",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/4/4a/MalevolentNuzzler-YS15-EU-C-1E.png/revision/latest/scale-to-width-down/300?cb=20150530120240",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "70046172",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/8/8c/RushRecklessly-YS15-EU-C-1E.png/revision/latest/scale-to-width-down/300?cb=20150530120137",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "64047146",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/1/15/HornoftheUnicorn-YGLD-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20170813170004",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "70828912",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/d/d1/PrematureBurial-BP03-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140804112241",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "73915051",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/d/d8/Scapegoat-YS18-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20180712164721",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "79571449",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/a/af/GracefulCharity-BP02-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20130703152659",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "14087893",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/3/31/BookofMoon-YS18-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20180712163424",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "58577036",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/5/58/Reasoning-PGL3-EN-GUR-1E.png/revision/latest/scale-to-width-down/300?cb=20160318104741",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "71453557",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/0/08/AutonomousActionUnit-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713074138",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "61127349",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/2/22/BigBangShot-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713074234",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "34016756",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/9/96/Riryoku-LEDU-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20170907223030",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "32022366",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/2/2c/GravityAxeGrarl-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713074629",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "98045062",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/a/a9/EnemyController-LCKC-EN-ScR-1E.png/revision/latest/scale-to-width-down/300?cb=20180323162919",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "82828051",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/9/9a/Earthquake-BP03-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140801083011",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "55713623",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/a/a1/Shrink-LCKC-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20180323163344",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "12923641",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/4/4e/SwordsofConcealingLight-SR04-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20170411221803",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "58775978",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/8/8e/NightmaresSteelcage-BP02-EN-C-UE.png/revision/latest/scale-to-width-down/300?cb=20150207133720",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "80921533",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/e/e5/MausoleumoftheEmperor-SR03-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20170411220655",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "48712195",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/2/23/CardTrader-YS18-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20180712163555",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "24874630",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/8/84/FiendsSanctuary-LCKC-EN-ScR-1E.png/revision/latest/scale-to-width-down/300?cb=20180323162827",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "60399954",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/6/65/UnionAttack-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713075505",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "06178850",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/9/91/FightingSpirit-BP03-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140804110932",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "67196946",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/f/f9/StarBlast-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713075254",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "25789292",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/e/ef/ForbiddenChalice-LEHD-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20181012172206",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "91580102",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/9/94/ReptilianneRage-BP03-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140804104503",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "27863269",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/d/d7/RocketPilder-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713075009",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "73048641",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/c/ce/HalfShut-SBLS-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20190509231550",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "98867329",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/4/40/CursedArmaments-BP03-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140802062416",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "98645731",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/6/6c/PotofDuality-LEDD-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20171005213755",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "19578592",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/0/01/AxeofFools-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713074206",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "27243130",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/5/5a/ForbiddenLance-LEHD-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20181012175203",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "22346472",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/b/b8/BlusteringWinds-DEM2-EN-C-UE.png/revision/latest/scale-to-width-down/300?cb=20170221064318",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "73178098",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/b/b6/EgoBoost-YS18-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20180712163948",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "33904024",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/a/a3/ShardofGreed-SS01-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20190129175807",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "81000306",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/3/38/FullForceStrike-BP02-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20130713074617",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "17418744",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/9/97/PhotonSanctuary-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130705174921",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "96864811",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/0/03/ForbiddenDress-LEHD-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20181012175122",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "77622396",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/a/ab/ReverseTrap-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713180305",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "12607053",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/d/d6/Waboku-SDCR-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140208125152",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "97077563",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/7/74/CalloftheHaunted-LART-EN-UR-LE.png/revision/latest/scale-to-width-down/300?cb=20190701225603",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "22359980",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/c/c6/MirrorWall-BP03-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140802103050",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "68540058",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/d/d0/Metalmorph-MIL1-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20200414205632",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "57882509",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/d/df/MaskofWeakness-YS15-EU-C-1E.png/revision/latest/scale-to-width-down/300?cb=20150530123831",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "37576645",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/6/6f/RecklessGreed-BP02-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20130703152741",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "93382620",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/6/66/RopeofLife-LCJW-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20131013182032",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "59744639",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/0/0c/WindstormofEtaqua-SS02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20190129195146",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "83133491",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/d/df/ZeroGravity-YS18-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20180712165044",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "21597117",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/b/b3/AHeroEmerges-YS14-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140711052449",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "28649820",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/4/49/EmbodimentofApophis-DPBC-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20150617205854",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "43250041",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/1/16/DrainingShield-YS16-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20160526090120",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "66742250",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/6/69/CurseofAnubis-LDK2-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20161007084219",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "66526672",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/c/ce/LabyrinthofNightmare-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713175659",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "36361633",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/5/57/ThreateningRoar-YS16-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20160526090130",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "78211862",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/c/c1/RisingEnergy-YSYR-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20170901224849",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "96008713",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/5/52/MagicalArmShield-BP03-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140802104010",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "12117532",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/0/03/ShatteredAxe-YGLD-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20170814193230",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "13955608",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/e/ee/StrongholdtheMovingFortress-DPRP-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20160916161108",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "30643162",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/7/74/StrikeSlash-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713180645",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "60306104",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/a/a0/NoEntry-BP03-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140802105841",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "86871614",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/0/08/Cloning-LCKC-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20180323165626",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "60406591",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/8/83/SinisterSeeds-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713180457",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "26905245",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/4/4b/MetalReflectSlime-DPRP-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20160916161319",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "79852326",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/9/9e/ZomatheSpirit-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130708190710",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "34815282",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/9/95/Miniaturize-BP03-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140802110454",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "97151365",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/0/00/Spacegate-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713180546",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "71272951",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/5/5d/Overworked-AP05-EN-SR-UE.png/revision/latest/scale-to-width-down/300?cb=20140902151023",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "37390589",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/6/63/KunaiwithChain-SS02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20190129174211",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "66518841",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/5/5b/PridefulRoar-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130708190749",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "80987696",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/8/8b/TimeMachine-LED2-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20180225021855",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "15552258",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/4/43/HalforNothing-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713175500",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "97168905",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/a/a5/MiracleLocus-BP03-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140802110615",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "73729209",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/4/4a/SkillSuccessor-SDLI-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140626075805",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "53656677",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/9/94/PowerFrame-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713180239",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "87106146",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/4/47/DamageGate-BP03-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140802111328",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "21636650",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/1/16/MiraclesWake-SDCL-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20171107114757",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "06799227",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/d/d7/HalfCounter-BP02-EN-C-UE.png/revision/latest/scale-to-width-down/300?cb=20150201132715",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "42671151",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/1/1a/TheGoldenApples-SS01-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20190129194608",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "03129635",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/5/5b/TikiCurse-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713180709",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "49514333",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/f/f9/TikiSoul-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713180733",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "86778566",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/6/68/ImpenetrableAttack-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713175530",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "60080151",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/4/41/MemoryofanAdversary-BP02-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20130713175844",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "44046281",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/a/a0/DimensionGate-BP03-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140803122149",
+      "rarity": "Common",
+      "isExtra": false
+    },
+    {
+      "passcode": "06691855",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/8/81/SpikeshieldwithChain-BP02-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20130713180630",
+      "rarity": "Rare",
+      "isExtra": false
+    },
+    {
+      "passcode": "78474168",
+      "art": "https://vignette.wikia.nocookie.net/yugioh/images/a/ad/BreakthroughSkill-SR02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20160706183604",
       "rarity": "Common",
       "isExtra": false
     }
