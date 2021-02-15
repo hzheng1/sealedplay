@@ -61,16 +61,20 @@ let main = async () => {
 								/"cardtable-cardimage".+<img[^>]+src\s*=\s*"([^"]+)"/
 							)[1];
 						} catch {
-							console.error(`Couldn't find image for https://yugioh.fandom.com/wiki/${cardNumber}`);
+							console.error(
+								`Couldn't find image for https://yugioh.fandom.com/wiki/${cardNumber}`
+							);
 						}
-						let title
+						let title;
 						try {
 							title = html
 								.match(/<title>([^<]+)<\/title>/)[1]
 								.split('|')[0]
 								.trim();
 						} catch {
-							console.error(`Couldn't find title for https://yugioh.fandom.com/wiki/${cardNumber}`);
+							console.error(
+								`Couldn't find title for https://yugioh.fandom.com/wiki/${cardNumber}`
+							);
 						}
 						let passcode;
 						try {
@@ -83,11 +87,15 @@ let main = async () => {
 									case 'The Winged Dragon of Ra':
 										return '10000011';
 									default:
-										return html.match(/<a\s*href\s*[^>]+title\s*=\s*"(\d{8})/)[1];
+										return html.match(
+											/<a\s*href\s*[^>]+title\s*=\s*"(\d{8})/
+										)[1];
 								}
 							})();
-						}	catch {
-							console.error(`Couldn't find passcode for https://yugioh.fandom.com/wiki/${cardNumber}`);
+						} catch {
+							console.error(
+								`Couldn't find passcode for https://yugioh.fandom.com/wiki/${cardNumber}`
+							);
 						}
 						cards.push({
 							cardNumber,
